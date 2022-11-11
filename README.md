@@ -3,4 +3,5 @@
 Completed using OpenCV library of Python and implemented using SVM *(Support Vector Machine)* -ML Algorithm
 
 FILES -
->
+> Face_mask_Detection.py
+> 
